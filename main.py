@@ -61,6 +61,7 @@ class AgeCalculator(App):
             size_hint = (1, 0.7),
             font_size = 30
         )
+        
 
         self.window.add_widget(self.date)
 
